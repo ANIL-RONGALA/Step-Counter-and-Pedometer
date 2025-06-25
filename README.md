@@ -1,1 +1,2 @@
 # Step-Counter-and-Pedometer
+A low-power step counter and pedometer application developed on the STM32L4S5VIT6 microcontroller using the B-L4S5I-IOT01A Discovery Kit. Leveraged FreeRTOS for efficient task scheduling and real-time responsiveness. Integrated a 3D accelerometer via I2C for motion detection and used SPI for display output, demonstrating advanced skills in embedded system design, peripheral interfacing, and power optimization.
